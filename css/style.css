@@ -1,0 +1,65 @@
+/* Cor do card da pagina de login*/
+.custom-card-l {
+    background-color: rgb(194, 193, 193);
+    color: white; /* Defina a cor do texto para melhor legibilidade */
+    padding: 20px; /* Ajuste o preenchimento conforme necessário */
+}
+ /* Estilo personalizado para o navbar */
+.custom-navbar {
+    background-color:  #800000; /* Fundo vermelho */
+    min-height: 85px; /* Altura ideal para o navbar */
+}
+
+/* Estilo para o logo */
+.navbar-brand img {
+    max-height: 60px; /* Ajusta a altura do logo */
+}
+
+.conteudo {
+    margin-top: 20px; /* Ajuste o valor conforme necessário */
+    margin-left: 15px;
+}
+ 
+/* Estilos para a janela modal */
+.card {
+    width: 300px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    
+}
+
+/* Estilos para os botões personalizados */
+.custom-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #800000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.custom-button:hover {
+    background-color: #800000;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-toggler {
+  border: none !important;
+}
+
+#menu {
+  width: 50px;
+  height: 60px;
+  color: white;
+}
